@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+}
+body {
+  line-height: 1.4;
+  margin: auto;
+  max-width: 40%;
+  margin-top: 10%;
+}
